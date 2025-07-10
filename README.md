@@ -1,6 +1,7 @@
-# conda2docker
+# nextstrain-conda2docker
 
-Build and publish a Docker image from a Conda environment YAML file
+This repository creates a Docker image that extends the Nextstrain base image
+with additional tools defined by a Conda environment file.
 
 ## 1. Setup
 
